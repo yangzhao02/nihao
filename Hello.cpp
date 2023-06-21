@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"Hello, remote"<<endl;
+	cout<<"Hello, local"<<endl;
 	cout<<"Hello, line1"<<endl;
 	cout<<"Hi, world"<<endl;
 	cout<<"Hello, new World"<<endl;
